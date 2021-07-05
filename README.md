@@ -17,4 +17,4 @@ Analog IC Design - Summer 2021
 - The [``MATLAB``](https://matlab.mathworks.com/) live scripts are in the [ref](./MATLAB_codes).
 - The respective input PWL files are in respective folder (generated uusing MATLAB).
 
-**REPORT :** [a relative link] (Report_8bit_DAC_design.pdf)
+**[``REPORT``](Report_8bit_DAC_design.pdf) :** 
